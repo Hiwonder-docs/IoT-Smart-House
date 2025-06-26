@@ -18,6 +18,7 @@ IoT Smart House
    docs/5.Assembly.md
    docs/6.Smart_Home_Projects.md
    docs/Appendix.md
+   Download <https://drive.google.com/drive/folders/1pKYLUgzmno7QJ6HBzPA-p517ifjbeqCC?usp=sharing>
 
 
 
